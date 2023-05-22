@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on InstigateMobile company
+- 🌱 I’m currently learning ASP.NET Core and Angular
+- 📫 How to reach me: davidkhachatryan359@gmail.com
+
 <!--
 **davidkhachatryan123/davidkhachatryan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
