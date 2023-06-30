@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on InstigateMobile company
-- 🌱 I’m currently learning ASP.NET Core and Angular
+- 🔭 I’m currently working on Zealous company
+- 🌱 I’m currently develop on ASP.NET Core and Angular
 - 📫 How to reach me: davidkhachatryan359@gmail.com
 
 <!--
