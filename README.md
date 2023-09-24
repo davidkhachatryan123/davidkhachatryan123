@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Zealous company
-- 🌱 I’m currently develop with ASP.NET Core and Angular
+- 🌱 I’m currently developing ASP.NET Core and Angular applications
 - 📫 How to reach me: davidkhachatryan359@gmail.com
 
 <!--
