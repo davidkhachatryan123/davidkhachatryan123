@@ -1,19 +1,15 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm David Khachatryan </b></h1>
 
-- 🌱 I’m currently developing ASP.NET Core and Angular applications
-- 📫 How to reach me: davidkhachatryan359@gmail.com
+## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-<!--
-**davidkhachatryan123/davidkhachatryan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ASP.NET Core and Angular developer
 
-Here are some ideas to get you started:
+📫 How to reach me: davidkhachatryan359@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/davidkhachatryan123/">
+    <img src="https://github-readme-stats.vercel.app/api?username=davidkhachatryan123&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight" width="450"/>
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidkhachatryan123&show_icons=true&locale=en&layout=compact&line_height=25&theme=tokyonight" width="375" alt="davidkhachatryan123"/>
+</div>
