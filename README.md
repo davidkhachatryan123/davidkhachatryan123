@@ -2,7 +2,7 @@
 
 ## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-* ASP.NET Core and Angular developer
+I am an ASP.NET Core and Angular developer
 
 📫 How to reach me: davidkhachatryan359@gmail.com
 
