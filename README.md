@@ -7,9 +7,7 @@ I am an ASP.NET Core and Angular developer
 📫 How to reach me: davidkhachatryan359@gmail.com
 
 <div align="center">
-  <a href="https://github.com/davidkhachatryan123/">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidkhachatryan123&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight" width="450"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidkhachatryan123&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidkhachatryan123&show_icons=true&locale=en&layout=compact&line_height=25&theme=tokyonight" width="375" alt="davidkhachatryan123"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidkhachatryan123&show_icons=true&locale=en&layout=compact&line_height=25&theme=tokyonight"/>
 </div>
