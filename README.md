@@ -2,7 +2,7 @@
 
 ## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-I am an ASP.NET Core and Angular developer
+I am a Full-Stack WEB Developer. Throughout my 3 years of experience in IT, I have developed a strong understanding of ASP.NET Core and Angular technologies.
 
 📫 How to reach me: davidkhachatryan359@gmail.com
 
