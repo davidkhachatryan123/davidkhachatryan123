@@ -10,7 +10,7 @@ I am also the author of a NuGet library that streamlines .NET development by pro
 
 ## 🚀 My most recent work I can share publicly
 
-- 🔹 [David Studio Essentials]([https://github.com/org1](https://github.com/david-studio-core/Essentials))  
+- 🔹 [David Studio Essentials](https://github.com/david-studio-core/Essentials) 
 
 ## 🌐 Connect with Me
 
