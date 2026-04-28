@@ -2,6 +2,17 @@
 
 ## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-As a software engineer, I bring 5 years of robust experience from reputable companies to the table. My roles have spanned from .NET development including Angular to DevOps engineering, cultivating a deep understanding of crafting resilient and maintainable code.
+With over five years of experience as a .NET developer and a background in DevOps engineering, I bring a versatile and results-driven skill set across industries—from finance to security systems. I have led small teams, including founding and running David Group Solutions, a backend-focused development company delivering scalable server-side solutions for international clients.
 
-📫 How to reach me: davidkhachatryan359@gmail.com
+I have built production-ready backend systems from scratch, designed system architecture, and developed reliable tests and performance benchmarks for high-load components. Alongside technical work, I’ve managed project delivery in a cross-border environment.
+
+I am also the author of a NuGet library that streamlines .NET development by providing ready-to-use features and reducing repetitive tasks. I am passionate about contributing to professional teams, sharing my expertise, and continuously improving the quality of the software we build together.
+
+## 🚀 My most recent work I can share publicly
+
+- 🔹 [David Studio Essentials]([https://github.com/org1](https://github.com/david-studio-core/Essentials))  
+
+## 🌐 Connect with Me
+
+📫 **Email:** davidkhachatryan359@gmail.com  
+💼 **LinkedIn:** [David Khachatryan](https://www.linkedin.com/in/david-khachatryan-325647277/)  
