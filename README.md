@@ -11,10 +11,10 @@ I am also the **author of a NuGet library** that streamlines .NET development by
 ## 🚀 My most recent work I can share publicly
 
 - 🔹 [DavidStudio.Core.Essentials](https://github.com/david-studio-core/Essentials)
-- 🔹 [David Group Properties - Real Estate](https://github.com/david-studio-real-estate)
-- 🔹 [Evently](https://github.com/david-studio-evently)
-- 🔹 [BidMax - Real Estate](https://github.com/david-studio-bidmax)
-- 🔹 [Core](https://github.com/david-studio-core)
+- 🏠︎ [David Group Properties - Real Estate](https://github.com/david-studio-real-estate)
+- ✨ [Evently](https://github.com/david-studio-evently)
+- 🚗 [BidMax (limited)](https://github.com/david-studio-bidmax)
+- ⚙️ [Core](https://github.com/david-studio-core)
 
 ## 🌐 Connect with Me
 
