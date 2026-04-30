@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm David Khachatryan </b></h1>
+<h1 align="center"><b>Hi , I'm David </b></h1>
 
 ## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
@@ -10,7 +10,11 @@ I am also the **author of a NuGet library** that streamlines .NET development by
 
 ## 🚀 My most recent work I can share publicly
 
-- 🔹 [David Studio Essentials](https://github.com/david-studio-core/Essentials) 
+- 🔹 [DavidStudio.Core.Essentials](https://github.com/david-studio-core/Essentials)
+- 🔹 [David Group Properties - Real Estate](https://github.com/david-studio-real-estate)
+- 🔹 [Evently](https://github.com/david-studio-evently)
+- 🔹 [BidMax - Real Estate](https://github.com/david-studio-bidmax)
+- 🔹 [Core](https://github.com/david-studio-core)
 
 ## 🌐 Connect with Me
 
