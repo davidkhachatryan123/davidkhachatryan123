@@ -19,4 +19,4 @@ I am also the **author of a NuGet library** that streamlines .NET development by
 ## 🌐 Connect with Me
 
 📫 **Email:** davidkhachatryan359@gmail.com  
-💼 **LinkedIn:** [David Khachatryan](https://www.linkedin.com/in/david-khachatryan-325647277/)  
+💼 **LinkedIn:** [linkedin.com/in/david-khachatr1an](https://www.linkedin.com/in/david-khachatr1an/)
