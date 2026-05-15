@@ -2,11 +2,9 @@
 
 ## <picture><img src="https://github.com/davidkhachatryan123/davidkhachatryan123/raw/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-With over **5 years of experience** as a .NET developer and a **background in DevOps** engineering, I bring a versatile and results-driven skill set across **industries—from finance to security systems**. I have led small teams, including founding and running **David Group Solutions**, a backend-focused development company delivering scalable server-side solutions for international clients.
+.NET developer with **5+ years of backend experience** and a **DevOps background**, working across **finance and security systems**. I founded **David Group Solutions**, where I **led a team of ~10 developers and DevOps engineers** building scalable backend systems for international clients — handling everything from architecture design to performance benchmarking on high-load components.
 
-I have built **production-ready systems** from scratch, designed system architecture, and developed reliable **tests and performance benchmarks** for high-load components. Alongside technical work, I’ve managed project delivery in a cross-border environment.
-
-I am also the **author of a NuGet library** that streamlines .NET development by providing ready-to-use features and reducing repetitive tasks. I am passionate about contributing to professional teams, sharing my expertise, and continuously improving the quality of the software we build together.
+**Shipped production systems** from the ground up, which helped clients **win more business by streamlining the backend systems** that were slowing them down, and **published an open-source NuGet library** that cuts repetitive boilerplate out of .NET projects. Drawn to teams that care about doing it right — **clean code, solid tests, not just getting it done.**
 
 ## 🚀 My most recent work I can share publicly
 
