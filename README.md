@@ -9,4 +9,4 @@ Shipped production systems from the ground up, which helped teams **win more bus
 ## 🌐 Connect with Me
 
 📫 **Email:** davidkhachatryan359@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/david-khachatr1an](https://www.linkedin.com/in/david-khachatr1an/)
+💼 **LinkedIn:** [linkedin.com/in/khachatr1an-david](https://www.linkedin.com/in/khachatr1an-david/)
